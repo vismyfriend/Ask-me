@@ -131,7 +131,7 @@ const questions = [
     },
     {
         id: 27,
-        ru: "	Oops… пока не загрузили перевод… Справитесь сами?	",
+        ru: "Oops… пока не загрузили перевод… Справитесь сами?",
         eng: "	What does your boyfriend or girlfriend like to do?	"
     }
 ]

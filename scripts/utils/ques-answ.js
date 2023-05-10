@@ -138,22 +138,27 @@ const questions = [
 const answers = [
     {
         id: 101,
-        ru: "101 Нажимай на другую колоду",
-        eng: "101 Click another deck"
+        ru: "Спроси это помедленнее, пожалуйста",
+        eng: "Ask this slowly, please"
     },
     {
         id: 102,
-        rru: "102 Нажимай на другую колоду",
-        eng: "102 Click another deck"
+        ru: "Не так быстро, ладно?",
+        eng: "Not so fast, okay?"
     },
     {
         id: 103,
-        ru: "103 Нажимай на другую колоду",
-        eng: "103 Click another deck"
+        ru: "Спроси еще раз, пожалуйста",
+        eng: "Will you ask it again, please?"
     },
     {
         id: 104,
-        ru: "104 Нажимай на другую колоду",
-        eng: "104 Click another deck"
+        ru: "Дайте подумать немножечко",
+        eng: "Let me think a bit"
+    },
+    {
+        id: 105,
+        ru: "Еще раз спросите, пожалуйста",
+        eng: "Come again, please"
     }
 ]
